@@ -1,0 +1,34 @@
+{
+  "id": "e51de87c-0953-49e4-832d-85f06fb8948a",
+  "name": "ErpXperts",
+  "publisher": "ErpXperts",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./ErpXperts.png",
+  "capabilities": [],
+  "dependencies":  [
+    {
+        "appId":  "6eb52545-a685-4d67-8d24-b4dbdf9e120f",
+        "publisher":  "ErpXperts",
+        "name":  "ERPX Basis",
+        "version":  "1.0.1.2"
+    }
+  ],
+  "screenshots": [],
+  "platform": "14.0.0.10",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "runtime": "3.0",
+  "showMyCode": true,
+  "features": [ "TranslationFile" ] 
+}
