@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-CH" original="ErpXperts">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1358882097 - Method 1593426795 - NamedType 2100901147" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job: %1, %2 </source>
+          <target>N° projet : %1, %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ErpXperts - Method OnBeforeInsertSalesLine - NamedType _Text001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1358882097 - Method 3321644180 - NamedType 2100901147" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A new Job Planning Line\%1, %2\has been created.</source>
+          <target>Une nouvelle ligne planification projet\%1, %2\est insérée.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ErpXperts - Method CreateNewPlanningPeriod - NamedType _Text001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3787011760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Sheet Line</source>
+          <target>Ligne feuille de temps</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ErpX_Time Sheet Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make Sales Quote</source>
+          <target>Créer devis vente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - ReportDataItem 2818324089 - Method 3245603402 - NamedType 2100901147" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job: %1, %2 </source>
+          <target>N° projet : %1, %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - ReportDataItem Job - Method OnAfterGetRecord - NamedType _Text001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - Control 2674957841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Filter</source>
+          <target>Filtre projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - Control JobFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - Control 4229621998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Task Filter</source>
+          <target>Filtre tâche projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - Control JobTaskFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - ReportLabel 3184947576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job No.</source>
+          <target>N° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - ReportLabel JobNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - ReportLabel 2856842045" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - ReportLabel JobDescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1865188980 - Method 2736589801 - NamedType 1196336482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The quote %1 has been created from Joib no. %2.\Do you want to edit the new quote?</source>
+          <target>Le devis %1 a été créé à partir du projet %2.\Souhaitez-vous modifier le nouveau devis ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Make Sales Quote - Method OnPostReport - NamedType Text001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggest Job Jnl. Lines</source>
+          <target>Proposer lignes feuille projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 543275552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target>Date début</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control StartingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 543275552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date from which the report or batch job processes information.</source>
+          <target>Spécifie la date à partir de laquelle l'état ou le traitement par lots traite les informations.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control StartingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3592094765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target>Date fin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control EndingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3592094765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date to which the report or batch job processes information.</source>
+          <target>Spécifie la date à partir de laquelle l'état ou le traitement par lots traite les informations.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control EndingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3207401429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource No. Filter</source>
+          <target>Filtre n° ressource</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control ResourceNoFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3207401429 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the resource number that the batch job will suggest job lines for.</source>
+          <target>Indique le numéro de la ressource pour laquelle le traitement par lot suggère des lignes projet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control ResourceNoFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3384271194 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job No. Filter</source>
+          <target>Filtre n° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control JobNoFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3384271194 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for the job numbers that will be included in the report.</source>
+          <target>Spécifie un filtre pour les numéros de projet qui sont inclus dans l'état.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control JobNoFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 740177765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Task No. Filter</source>
+          <target>Filtre n° tâche projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control JobTaskNoFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 740177765 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a filter for the job task numbers that will be included in the report.</source>
+          <target>Spécifie un filtre pour les numéros de tâche projet qui sont inclus dans l'état.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control JobTaskNoFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3007390962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Manager Filter</source>
+          <target>Filtre chef de projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control ProjectManagerFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1168122844 - Control 3117067213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travelling expenses</source>
+          <target>Insérer les frais de déplacement</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Suggest Job Jnl. Lines - Control TravelingExpenses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Contract</source>
+          <target>Ventes : Contrat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - ReportDataItem 1192395785 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quote</source>
+          <target>Ventes : Contrat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - ReportDataItem Sales Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Nombre de copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 2578066365 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many copies of the document to print.</source>
+          <target>Spécifie le nombre de copies du document à imprimer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control NoOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Afficher info. internes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 316520822 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the printed report to show information that is only for internal use.</source>
+          <target>Spécifie si vous souhaitez que l'état imprimé affiche les informations internes uniquement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control ShowInternalInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archiver document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 3255118903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you print it.</source>
+          <target>Spécifie si le document est archivé après son impression.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control ArchiveDocument - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Journal interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 816368762 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the service quotes that you want to print as interactions and add them to the Interaction Log Entry table.</source>
+          <target>Spécifie si vous souhaitez enregistrer les devis service à imprimer en tant qu'interactions et les ajouter à la table Ecriture journal interaction.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control LogInteraction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - Control 3623195566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Logo</source>
+          <target>Afficher le logo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - Control PrintLogo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3140410629" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Quote %1</source>
+          <target>Ventes : Devis %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType Text004Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2287756966" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType Text005Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 576348388" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create a follow-up task?</source>
+          <target>Voulez-vous créer une tâche de suivi ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType Text007Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 4273407817" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Détail TVA dans </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType Text008Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3078467498" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Devise société</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType Text009Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3797269194" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Taux de change : %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType Text010Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>N° téléphone</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 322581705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target>N° identif. intracomm.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType CompanyInfoVATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 973567044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Analytique en-tête</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType HeaderDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Prix unitaire</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2136812451" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>% remise</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType SalesLineLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Montant</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3202350530" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Montant remise facture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType SalesLineInvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Sous-total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 232398666" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Escompte sur TVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType VATDiscountAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Analytique ligne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 1688458226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>% TVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType VATAmountLineVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Base TVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Montant TVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3405969474" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Détail montant TVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType VATAmountSpecificationCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3548486750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Montant ligne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType LineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2585230207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Montant base remise facture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType InvoiceDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 1713022124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Montant remise facture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType InvoiceDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 232471621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Adresse destinataire</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ShiptoAddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3668807294" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Identifiant TVA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType SalesLineVATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 164013595" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Page d'accueil</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType CompanyInfoHomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2377105323" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType CompanyInfoEmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Date document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3012467569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <target>Autoriser remise facture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType SalesLineAllowInvoiceDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3937387347" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>N° client</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType CustomerNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3204889296" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reg. No.</source>
+          <target>N° enreg.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType CompanyInfoRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 3337167743" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <target>N° doc. externe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_NoDocExternLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 674998214" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fax No.</source>
+          <target>N° fax</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType FaxNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 1085020812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Conditions de paiement</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_PmtTermsLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2907848420" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Conditions</source>
+          <target>Conditions de livraison</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_ShipCondLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2186343139" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Vendeur</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_SalesPersonLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 4241632857" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference</source>
+          <target>Référence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_ReferenceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 4092276796" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer : %1</source>
+          <target>Client : %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_CustomerLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 6596953 - NamedType 2840550268" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Place and Date : Givisiez, the %1</source>
+          <target>Lieu et date : Givisiez, le %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ErpX_Sales - Contract - NamedType ML_PlaceAndDateLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4243348529 - Action 4286745468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make Sales Quote</source>
+          <target>Créer Devis vente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_JobTaskLines - Action MakeSalesQuote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 150584122 - Action 1358882097 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ErpXPerts</source>
+          <target>ErpXPerts</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Job Journal - Action ErpXperts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 150584122 - Action 4089494754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggest Lines from Time Sheets</source>
+          <target>Proposer lignes feuille projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Job Journal - Action ErpX_SuggestLinesFromTimeSheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Action 2290974643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Import CAMT054</source>
+          <target>Importer CAMT054</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Action ImportBankCamt054 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Action 2290974643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a file for transaction payments that was made from your bank account and apply the payments to the entry. The file name must end in .csv, .txt, asc, or .xml.</source>
+          <target>Importez un fichier pour les paiements de transaction réalisés depuis votre compte bancaire et lettrez les paiements avec l'écriture. Le nom du fichier doit se terminer par .csv, .txt, asc ou .xml.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Action ImportBankCamt054 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Method 285658001 - NamedType 17661673" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import cancelled.</source>
+          <target>Import annulé.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Method ImportCamt054 - NamedType Text011Lbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Method 285658001 - NamedType 4248318831" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ESR payment, inv </source>
+          <target>Paiement BVR, Fact.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Method ImportCamt054 - NamedType Text020Lbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Method 285658001 - NamedType 913275604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ESR payment </source>
+          <target>Paiement BVR </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Method ImportCamt054 - NamedType Text025Lbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Method 285658001 - NamedType 362712062" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 payments of %2 were successfully imported.</source>
+          <target>%1 paiements de %2 ont bien été importés.</target>
+          <note from="Developer" annotates="general" priority="2">Parameters 1 and 2 - numbers.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Method ImportCamt054 - NamedType Text036Lbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3571242648 - Method 1263941238 - NamedType 3401550051" size-unit="char" translate="yes" xml:space="preserve">
+          <source>More than one open invoice were found for the Reference No. %1.</source>
+          <target>Plusieurs factures en cours ont été trouvées pour le n° référence %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_Cash Receipt Journal - Method TrimInvoiceNo - NamedType Text042Lbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3096330573 - Action 4286745468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make Sales Quote</source>
+          <target>Créer Devis vente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_JobCard - Action MakeSalesQuote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4160035520 - Control 1291393691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chargeable Time Chart</source>
+          <target>Graphique temps facturable</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_AccountingManRoleCenter - Control ErpX_Chargeable Time Chart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3387646036 - Control 1291393691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Chargeable Time Chart</source>
+          <target>Graphique temps facturable</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ErpX_JobProjectManagerRC - Control ErpX_Chargeable Time Chart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3268207662 - Field 151332716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Bloqué</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ErpX_JobTask - Field ErpX_Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3268207662 - Field 3420269075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actual progress in %</source>
+          <target>Avancement réel en %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ErpX_JobTask - Field ErpX_Actual progress in % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3809855872 - Field 554034584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Period</source>
+          <target>Période de facturation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ErpX_JobPlanningLine - Field ErpX_Invoice Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3687514829 - Field 1684093260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty. to Invoice</source>
+          <target>Qté à facturer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ErpX_MyJob - Field ErpX_Qty. to Invoice - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
